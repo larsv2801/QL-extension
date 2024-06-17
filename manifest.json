@@ -1,0 +1,8 @@
+{
+  "manifest_version":2,
+  "name": "QuikLauch extension",
+  "version": "0.1",
+  "chrome_url_overrides" : {
+    "PAGE_TO_OVERRIDE": "programmeren/QuickLauch.html"
+  }
+}
