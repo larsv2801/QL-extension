@@ -224,7 +224,7 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-<body onload="getbg();wn();">
+<body onload="getbg();wn();updateclock();">
 <br>
 <div id="je">
     <div id="jef">
